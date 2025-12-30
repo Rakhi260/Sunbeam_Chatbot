@@ -1,0 +1,185 @@
+{
+  "available_programs": [
+    {
+      "Technology": "Technology",
+      "Aim": "Aim",
+      "Prerequisite": "Prerequisite",
+      "Learning": "Learning",
+      "Location": "Location"
+    },
+    {
+      "Technology": "Generative AI",
+      "Aim": "Create intelligent applications with LLMs.",
+      "Prerequisite": "Python, Database",
+      "Learning": "Advanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "Android Mobile App Development",
+      "Aim": "Develop Android Mobile Application",
+      "Prerequisite": "Java Programming, Database, JS",
+      "Learning": "Android Programming (Java), Express JS server",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "C Programming",
+      "Aim": "System application development with GUI",
+      "Prerequisite": "Basic C Programming",
+      "Learning": "Revision of structs and File IO, System programming, GUI programming in C",
+      "Location": "Hinjawadi & Marketyard"
+    },
+    {
+      "Technology": "Java Programming",
+      "Aim": "Desktop application development with GUI",
+      "Prerequisite": "Basic Java Programming",
+      "Learning": "Revision of Collections and File IO, GUI programming in Java",
+      "Location": "Hinjawadi, Marketyard & Karad"
+    },
+    {
+      "Technology": "Web Programming",
+      "Aim": "Web Application Development",
+      "Prerequisite": "HTML, JS, CSS, SQL basics",
+      "Learning": "Node JS, REST services using Express, jQuery, Advanced SQL",
+      "Location": "Hinjawadi & Karad"
+    },
+    {
+      "Technology": "Python Web Development",
+      "Aim": "Python-based Web Application Development",
+      "Prerequisite": "Python, HTML, JS, CSS, SQL basics",
+      "Learning": "Python Flask/Database connectivity, REST services, jQuery, Advanced SQL",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "Data Science (ML)",
+      "Aim": "Exploring & Visualizing data and Machine learning using Python.",
+      "Prerequisite": "Python Programming",
+      "Learning": "Advanced Python, ML models, Power BI, Flask",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": ".NET",
+      "Aim": "Web application development using .NET",
+      "Prerequisite": "C#",
+      "Learning": "Cortex-M embedded programming",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "CYBER SECURITY",
+      "Aim": "Build and manage secure IT infrastructure.",
+      "Prerequisite": "Networking & Linux Basics",
+      "Learning": "Configure essential network services, implement firewall solutions, secure web servers with certificates, deploy intrusion detection systems, and work with virtualized environments",
+      "Location": "Hinjawadi"
+    },
+    {
+      "Technology": "ARM Micro-controller",
+      "Aim": "Develop ARM Cortex-M firmware with embedded communication protocols and sensor interfacing",
+      "Prerequisite": "C Programming, Basic electronics",
+      "Learning": "Advanced Python, LLM models, Ollama, LangChain, Streamlit, Prompt engineering, HuggingFaces",
+      "Location": "Hinjawadi"
+    }
+  ],
+  "training_structure": [
+    {
+      "Duration": "Duration",
+      "Structure": "Structure",
+      "Mode": "Mode"
+    },
+    {
+      "Duration": "1 Month",
+      "Structure": "1 month of comprehensive training\nConcurrent execution of a mini project",
+      "Mode": "Offline mode at Sunbeam campus"
+    },
+    {
+      "Duration": "2 months",
+      "Structure": "Training sessions for relevant technologies\nExecution of 2 mini projects based on selected technology",
+      "Mode": "One mini project to be developed in offline mode at Sunbeam campus.\nOne mini project to be developed in online mode."
+    },
+    {
+      "Duration": "6 months",
+      "Structure": "In-depth training program during the entire internship\nOne mini project to be developed and one project to be developed with enhanced features based on specific technology.",
+      "Mode": "One mini project to be developed in offline mode at Sunbeam campus.\nOne project to be developed with enhanced features based on specific technology in online mode."
+    }
+  ],
+  "batch_schedule": [
+    {
+      "Batch": "IIT-08-H-A-MERN",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-Android",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-Internet of Things",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-ARM Micro-controller",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-Generative AI",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-Java Programming",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-.net",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-Web Programming using Python",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-Data Science (ML)",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    },
+    {
+      "Batch": "IIT-08-H-A-Cyber Security",
+      "Duration": "1 Month",
+      "Start Date": "10-Dec-2025",
+      "End Date": "05-Jan-2026",
+      "Time": "8:00 AM  To  4:00 PM",
+      "Fees": "4000/-"
+    }
+  ]
+}
