@@ -16,9 +16,9 @@ from Core.agent_tools.fallback_tool import fallback_tool
 
 
 llm = ChatOpenAI(
-    model="google_gemma-3-4b-it",
-    base_url="http://localhost:1234/v1",
-    api_key="not-needed",
+    model="gemini-2.5-flash",
+    base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
+    api_key=os.environ.get("GEMINI-API") or os.environ.get("GEMINI_API_KEY"),
     temperature=0.2
 )
 
